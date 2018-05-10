@@ -1,0 +1,1 @@
+* [3 dicas para código testável](https://talks.godoc.org/github.com/pietrocaselani/Talks/3%20dicas%20para%20c%C3%B3digo%20test%C3%A1vel/dicas%20para%20c%C3%B3digo%20test%C3%A1vel.slide)
