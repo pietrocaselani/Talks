@@ -1,0 +1,59 @@
+3 dicas para código testável
+
+Pietro Caselani
+Involves
+
+* Side effect & co-effect
+
+- Side effect
+Aquilo que sua função altera no mundo externo
+
+- Co-effect
+Estado que o mundo precisa estar para sua função funcionar
+
+.code side_effect/side_effect0.swift
+
+* 
+
+.code side_effect/side_effect1.swift
+
+* 
+
+.code side_effect/side_effect2.swift
+
+* 
+
+.code side_effect/side_effect3.swift
+
+* 
+
+.code side_effect/side_effect4.swift
+
+* 
+
+.code side_effect/environment.swift
+
+* Gerenciar e propagar estado
+
+.code state/viewstate0.swift
+
+.code state/viewstate1.swift
+
+* 
+
+.code state/appstate0.swift
+
+* 
+
+.code state/appstate2.swift
+
+* Fugir do iOS
+
+- Framework macOS
+- Testes mais rápidos
+
+* Referências
+
+.link https://www.pointfree.co/ pointfree.co
+.link http://hannesdorfmann.com/android/mosby3-mvi-1 MVI
+.link https://proandroiddev.com/state-propagation-in-android-with-rxjava-subjects-81db49a0dd8e State Propagation
